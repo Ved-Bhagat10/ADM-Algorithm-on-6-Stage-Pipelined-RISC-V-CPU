@@ -28,7 +28,6 @@ instructions; the only ADM-specific hardware is the ADC/DAC/capture glue.
 13. [Regenerating the Program](#regenerating-the-program)
 14. [Known Issues and Limitations](#known-issues-and-limitations)
 15. [Future Work](#future-work)
-16. [Author and License](#author-and-license)
 
 ---
 
