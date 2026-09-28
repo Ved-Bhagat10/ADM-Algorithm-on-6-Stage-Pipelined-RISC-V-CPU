@@ -94,7 +94,7 @@ adm-riscv-fpga/
 │   └── uart_tx.v            8N1 UART transmitter
 ├── constraints/
 │   └── boolean_board.xdc    Pin mapping, clock constraint, debug constraints
-├── sw/
+├── assembly_src_code/
 │   └── adm.s                ADM assembly source
 ├── host/
 │   └── capture_plot.py      UART receiver, decoder, live plot
